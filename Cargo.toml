@@ -1,0 +1,8 @@
+[package]
+name="once_human_mod_level_detector"
+version="0.1.0"
+edition="2024"
+
+[dependencies]
+grid_kit={ git="https://github.com/SuccessfullyFailed/grid_kit", features=["png_conversion"] }
+window_controller={ git="https://github.com/SuccessfullyFailed/window_controller" }
